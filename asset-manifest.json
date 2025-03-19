@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/clps1255-demo/static/css/main.0b76206a.css",
+    "main.js": "/clps1255-demo/static/js/main.f8a8d007.js",
+    "index.html": "/clps1255-demo/index.html",
+    "main.0b76206a.css.map": "/clps1255-demo/static/css/main.0b76206a.css.map",
+    "main.f8a8d007.js.map": "/clps1255-demo/static/js/main.f8a8d007.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b76206a.css",
+    "static/js/main.f8a8d007.js"
+  ]
+}
